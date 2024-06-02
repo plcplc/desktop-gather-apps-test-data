@@ -1,0 +1,1 @@
+("error: cannot install \"hello-world\", \"firefox\", \"vlc\": no install/refresh information results from\r\n       the store",ExitFailure 1)
